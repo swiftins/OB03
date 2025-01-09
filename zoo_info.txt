@@ -1,0 +1,10 @@
+Zoo: Trakazoo
+
+Animals:
+Krig, age: 5, species: Bird
+Frosik, age: 1, species: Mammal
+Pedro, age: 45, species: Reptile
+
+Employees:
+Sandro, position: ZooKeeper
+Alehandro, position: Veterinar
